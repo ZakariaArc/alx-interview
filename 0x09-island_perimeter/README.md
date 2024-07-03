@@ -1,1 +1,1 @@
-# 0x09. Island Perimeter Alx Project
+# 0x0A. Prime Game Alx Project
